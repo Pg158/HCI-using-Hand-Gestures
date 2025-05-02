@@ -76,12 +76,12 @@ You should see a real-time webcam window with hand landmarks drawn on your hand.
 ---
 
 ### 🖼️ Screenshots
-![Scroll Down](<WhatsApp Image 2025-04-18 at 22.25.16_004f4280.jpg>) 
-![alt text](<WhatsApp Image 2025-04-18 at 22.25.16_a47f557c.jpg>) 
-![alt text](<WhatsApp Image 2025-04-18 at 22.25.16_c44bd426.jpg>) 
-![alt text](<WhatsApp Image 2025-04-18 at 22.25.17_36a936eb.jpg>) 
-![alt text](<WhatsApp Image 2025-05-02 at 20.35.54_5e97b7fe.jpg>) 
-![alt text](<WhatsApp Image 2025-05-02 at 20.36.08_82c8f766.jpg>)
+![alt text](<WhatsApp Image 2025-04-18 at 22.25.16_004f4280-1.jpg>) 
+![alt text](<WhatsApp Image 2025-04-18 at 22.25.16_a47f557c-1.jpg>) 
+![alt text](<WhatsApp Image 2025-04-18 at 22.25.16_c44bd426-1.jpg>) 
+![alt text](<WhatsApp Image 2025-04-18 at 22.25.17_36a936eb-1.jpg>) 
+![alt text](<WhatsApp Image 2025-05-02 at 20.35.54_5e97b7fe-1.jpg>) 
+![alt text](<WhatsApp Image 2025-05-02 at 20.36.08_82c8f766-1.jpg>)
 
 ---
 
