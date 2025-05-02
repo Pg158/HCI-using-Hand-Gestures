@@ -75,10 +75,6 @@ You should see a real-time webcam window with hand landmarks drawn on your hand.
 
 ---
 
-### 🖼️ Screenshots
-
----
-
 ### 📁 Project Structure
 HCI-using-Hand-Gestures/
 ├── Main.py                 # Main script to run the application
