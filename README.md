@@ -42,23 +42,24 @@ Performs scrolling actions using defined finger gestures.
 ```bash
 git clone https://github.com/Pg158/HCI-using-Hand-Gestures.git
 cd HCI-using-Hand-Gestures
+```
 
 ---
 
 ### 2. Install Dependencies
 
-pip install -r requirements.txt
+``pip install -r requirements.txt``
 
 If requirements.txt is not available, install manually:
 
-pip install opencv-python mediapipe pyautogui autopy
+``pip install opencv-python mediapipe pyautogui autopy``
 
 ---
 
-▶️ Usage
+### ▶️ Usage
 Make sure your webcam is connected. Then run:
 
-python Main.py
+``python Main.py``
 You’ll see a webcam window showing hand landmarks in real-time. Try using different gestures to move the cursor or adjust volume.
 
 Interactions:
@@ -74,7 +75,7 @@ You should see a real-time webcam window with hand landmarks drawn on your hand.
 
 ---
 
-🖼️ Screenshots
+### 🖼️ Screenshots
 ![Cursor Control](<WhatsApp Image 2025-04-18 at 22.25.16_c44bd426.jpg>)
 ![Scroll up](<WhatsApp Image 2025-04-18 at 22.25.16_a47f557c.jpg>)
 ![Scroll down](<WhatsApp Image 2025-04-18 at 22.25.16_004f4280.jpg>)
@@ -84,7 +85,7 @@ You should see a real-time webcam window with hand landmarks drawn on your hand.
 
 ---
 
-📁 Project Structure
+### 📁 Project Structure
 HCI-using-Hand-Gestures/
 ├── Main.py                 # Main script to run the application
 ├── HandTrackingModule.py  # Reusable hand tracking module
@@ -93,7 +94,7 @@ HCI-using-Hand-Gestures/
 
 ---
 
-🤝 Contribution
+### 🤝 Contribution
 Contributions are welcome!
 If you'd like to contribute, feel free to:
 
@@ -107,7 +108,7 @@ You can also open issues to suggest features or report bugs.
 
 ---
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
